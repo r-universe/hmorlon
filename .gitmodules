@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "RPANDA"]
+	path = RPANDA
+	url = https://github.com/hmorlon/panda
+	shallow = true
+	registered = true
